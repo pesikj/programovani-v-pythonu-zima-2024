@@ -21,4 +21,4 @@ Rozvrh kurzu
 
 - Splnění kvízu z každé lekce na min. 70 %, kvíz musí být odevzdaný před začátkem další lekce (u posledního kvízu do následující středy). Kvíz slouží k zopakování si učiva z minulé lekce, doporučujeme si jej tedy udělat jako osvěžení si již probrané látky před následující hodinou.
 - Odevzdání dvou domácích úkolů, budou zadané po 6. a 9. lekci, úkol musí být odevzdaný do 2 týdnů.
-- Účast na min. 70 % lekcí.
+- Účast na min. 80 % lekcí.
