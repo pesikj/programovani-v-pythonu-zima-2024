@@ -4,7 +4,7 @@ Rozvrh kurzu
 
 | Lekce       | Datum      | Obsah lekce                                                      | Odkaz na materiály | Odkaz na kvíz |
 |-------------|------------| ---------------------------------------------------------------- | ------------------ | ------------- |
-| 1           | 2024-01-31 | Úvod, slicing, metody, moduly                                    | [odkaz](https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/slicing-metody-moduly/slicing) | |
+| 1           | 2024-01-31 | Úvod, slicing, metody, moduly                                    | [odkaz](https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/slicing-metody-moduly/slicing) | [odkaz](https://open.openclass.ai/resource/quiz-65b78f04ba949b706b502776?code=hpWGTM1N05Ning) |
 | 2           | 2024-02-07 | Funkce, slovníky                                                 | [funkce](https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/vlastni-funkce/funkce), [slovníky](https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/slovniky/n-tice) | |
 | 3           | 2024-02-14 | Slovníky, GitHub, coding style                                   |  | |
 | 4           | 2024-02-21 | Objektově orientované programování                               | [odkaz](https://kodim.cz/programovani/python-oop/lekce) | |
