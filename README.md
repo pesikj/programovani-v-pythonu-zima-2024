@@ -22,3 +22,9 @@ Rozvrh kurzu
 - Splnění kvízu z každé lekce na min. 70 %, kvíz musí být odevzdaný před začátkem další lekce (u posledního kvízu do následující středy). Kvíz slouží k zopakování si učiva z minulé lekce, doporučujeme si jej tedy udělat jako osvěžení si již probrané látky před následující hodinou.
 - Odevzdání dvou domácích úkolů, budou zadané po 6. a 9. lekci, úkol musí být odevzdaný do 2 týdnů.
 - Účast na min. 9 z 12 lekcí.
+
+### Domácí úkoly
+
+Návod na odevzdávání domáích úkolů je [zde](ukoly.md). Nahrávání kódu na GitHub je stejné jako ve třetí lekci. Nové pro tebe budou části *Přidání kouče/koučky do repozitáře* a *Vytvoření issue*.
+
+- [První domácí úkol](ukol_1.md) - do 20. března 2024
