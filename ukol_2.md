@@ -88,3 +88,5 @@ Pokud bys chtěl(a) vyhledat nějaký název, který obsahuje diakritiku, je nut
 data = '{"obchodniJmeno": "škoda"}'
 data = data.encode("utf-8")
 ```
+
+**Tip:** Protože v hodnotě `data` jsou složené závorky, namísto formátovaných řetězců je jednodušší spojit řetězec dohromady z jednotlivých částí s využitím `+`.
