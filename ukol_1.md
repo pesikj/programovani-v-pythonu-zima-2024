@@ -1,6 +1,4 @@
-# Domácí úkoly
-
-## Zadání úkolu 1
+# Zadání úkolu 1
 
 Tvým úkolem je vytvořit aplikaci pro zjednodušený výpočet daně z nemovitostí, která bude postavená na principech OOP. Tato daň se vztahuje na pozemky, bytové a komerční prostory. Výše daně se odvíjí od několika faktorů, např. typu nemovitosti, velikosti, lokalitě, kde se nemovitost nachází atd.
 

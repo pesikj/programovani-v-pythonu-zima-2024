@@ -28,3 +28,4 @@ Rozvrh kurzu
 Návod na odevzdávání domáích úkolů je [zde](ukoly.md). Nahrávání kódu na GitHub je stejné jako ve třetí lekci. Nové pro tebe budou části *Přidání kouče/koučky do repozitáře* a *Vytvoření issue*.
 
 - [První domácí úkol](ukol_1.md) - do 20. března 2024
+- [Druhý domácí úkol](ukol_2.md) - do 10. dubna 2024
