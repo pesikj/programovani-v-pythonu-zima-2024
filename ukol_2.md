@@ -17,7 +17,7 @@ Václavské náměstí 837/11, Nové Město, 11000 Praha 1
 
 Často se stane, že neznáme IČO subjektu, ale známe například jeho název nebo alespoň část názvu. Napiš program, který se zeptá uživatele(ky) na název subjektu, který chce vyhledat. Následně vypiš všechny nalezené subjekty, které ti API vrátí.
 
-V případě vyhledávání musíme odeslat požadavek typu POST na adresu https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ciselniky-nazevniky/vyhledat. Request typu POST pošleme tak, že namísto funkce `requests.get()` použijeme funkci `requests.post()`. K requestu musíme přidat hlavičku (parametr `headers`), který určí formát výstupních dat. Použij slovník níže.
+V případě vyhledávání musíme odeslat požadavek typu POST na adresu https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/vyhledat. Request typu POST pošleme tak, že namísto funkce `requests.get()` použijeme funkci `requests.post()`. K requestu musíme přidat hlavičku (parametr `headers`), který určí formát výstupních dat. Použij slovník níže.
 
 ```py
 headers = {
